@@ -22,4 +22,5 @@ my_list.sort()  # for descesnding order, use reverse= True
 
 # Find and print the index of the value 30 in my_list
 print(f'index 30 is: {my_list.index(30)}')
+
 print(my_list)
